@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947244369863",
+    "firebase_url": "https://freegym-7059d.firebaseio.com",
+    "project_id": "freegym-7059d",
+    "storage_bucket": "freegym-7059d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947244369863:android:1670ba7b80a1568aa8fbe2",
+        "android_client_info": {
+          "package_name": "com.example.freegym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947244369863-bor3sm5a4s7ps07db0pv0j46e4ba06av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6KN2Uh2PktHxqT4Y72IS7fYy1gfon1uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947244369863-bor3sm5a4s7ps07db0pv0j46e4ba06av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
